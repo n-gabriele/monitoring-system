@@ -19,7 +19,9 @@ Bienvenue dans le projet ! Ce document a pour but de vous guider à travers l'ar
 ## Introduction
 Le projet de système de Monitoring a pour ambition de transformer l'infrastructure IT d'une entreprise en intégrant des solutions de virtualisation et de surveillance avancées. Ce projet est conçu pour assurer une haute disponibilité et une gestion optimisée des ressources à travers une architecture de cluster interconnecté.
 
-![Infrastructure Diagram](images/infrastructure.png)
+![Infrastructure Diagram](https://github.com/n-gabriele/monitoring-system/assets/147522834/6b5cdfa3-c3e7-46bf-b8da-13d1bac7af45)
+
+
 
 ## Architecture du Système
 
