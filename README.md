@@ -17,7 +17,7 @@ Bienvenue dans le projet ! Ce document a pour but de vous guider à travers l'ar
 6. [Conclusion](#conclusion)
 
 ## Introduction
-Le projet eTube a pour ambition de transformer l'infrastructure IT d'une entreprise en intégrant des solutions de virtualisation et de surveillance avancées. Ce projet est conçu pour assurer une haute disponibilité et une gestion optimisée des ressources à travers une architecture de cluster interconnecté.
+Le projet de système de Monitoring a pour ambition de transformer l'infrastructure IT d'une entreprise en intégrant des solutions de virtualisation et de surveillance avancées. Ce projet est conçu pour assurer une haute disponibilité et une gestion optimisée des ressources à travers une architecture de cluster interconnecté.
 
 ![Infrastructure Diagram](images/infrastructure.png)
 
